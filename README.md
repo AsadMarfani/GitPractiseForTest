@@ -2,4 +2,6 @@
 _Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries_
 
 **But also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.**
+
 1) [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+2) [Click on the link to sign in on Facebook](https://www.facebook.com "Facebook's Homepage")
